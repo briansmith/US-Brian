@@ -71,6 +71,10 @@ version, then reboot, then install the new version, then reboot.
 
 In addition to installing the “US - Brian” keyboard layout, do the following:
 
+* Disable the Ctrl+Shift shortcut to switch between input methods in
+  “Control Panel” > Language > “Advanced settings” > “Change language bar hot
+  keys”. This shortcut gets accidentally triggered too often when programming.
+  Instead, use the [Windows]+[Space] shortcut.
 * Remove the “US” layout. It is redundant with “US - Brian” and it just gets
   in the way when switching keyboard layouts. Note that “removing” isn't the
   same as uninstalling; you can always add the “US” layout back.
